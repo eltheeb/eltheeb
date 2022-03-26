@@ -1,2 +1,2 @@
 cpp6
-ver7
+ver6
